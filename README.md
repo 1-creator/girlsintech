@@ -15,7 +15,7 @@
 #Step 1-> declare function to calculate distance between two point
    void three_dis(float x1, float y1, float x2, float y2)
       set float dis = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2) * 1.0)
-      print distance
+      print dis
       
 #step 2-> In main()
    Set float x1 = 4
