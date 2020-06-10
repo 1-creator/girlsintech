@@ -1,0 +1,2 @@
+C:\Users\USER\source\repos\measurement\Debug\measurement.exe
+C:\Users\USER\source\repos\measurement\Debug\measurement.pdb
